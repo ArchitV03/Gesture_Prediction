@@ -1,0 +1,19 @@
+
+path: C:\Users\abhiv\Desktop\ml
+train: images
+val: images
+
+names:
+  0: hello
+  1: nice
+  2: to
+  3: you
+  4: i love you
+  5: meet
+  6: answer
+  7: stop
+  8: good
+  9: bad
+  10: no
+  11: thanks
+  12: where
